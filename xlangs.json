@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "hello_world": ["helloworld/echo.php", "helloworld/print.php"],
+    "if": ["if/if.php"]
+  }
+}
